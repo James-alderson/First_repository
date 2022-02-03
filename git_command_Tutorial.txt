@@ -1,0 +1,18 @@
+1.git init (Create .git folder on local location and save all change or add and etc...)
+2.git add {filename.test} (Join file or files for git work on)
+3.git status (Show now status)
+4.git commit (Add files on local repository)
+5.git push (Upload commit files on server)
+6.git pull (Download last modifie file and update now file)
+7.git clone (clone files on server)
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+git ignore filename
+
+git branch (filenaem)
+
+git checkout (branchName)
+
+git merge (brange Name )
